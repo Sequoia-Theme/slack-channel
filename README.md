@@ -22,10 +22,10 @@ Monochrome:
 ## Screenshots
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/moonlight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
 
 ### Monochrome
-![Monochrome](https://github.com/Sequoia-Theme/slack-channel/blob/main/monochrome.png?raw=true)
+![Monochrome](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMonochrome.png?raw=true)
 
 #
 
