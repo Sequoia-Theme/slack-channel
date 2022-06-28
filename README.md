@@ -12,20 +12,20 @@ To change your theme on linear app do like this:
 Available themes:
 
 Moonlight:
-- #151726,#0B161E,#232534,#DEE0EF,#232534,#DEE0EF,#F8D2C9,#EE8679,#151726,#DEE0EF
+- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
 
 Monochrome:
-- #202231,#0B161E,#363847,#DEE0EF,#363847,#DEE0EF,#EDD5D6,#D1918F,#202231,#DEE0EF
+- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
 
 
 
 ## Screenshots
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/Midnight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/moonlight.png?raw=true)
 
 ### Monochrome
-![Monochrome](https://github.com/Sequoia-Theme/slack-channel/blob/main/Sunset.png?raw=true)
+![Monochrome](https://github.com/Sequoia-Theme/slack-channel/blob/main/monochrome.png?raw=true)
 
 #
 
